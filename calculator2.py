@@ -1,9 +1,3 @@
-print(True or False)
-print("milad" and "str")
-print("iman" > "am")
-print("sara" < "am")
-print("Akbar" <= "sakineh")
-
 
 def add(x, y):
     return x + y
